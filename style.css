@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+}
+
+#password {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+#exportBtn {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
